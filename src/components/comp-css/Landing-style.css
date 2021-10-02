@@ -1,0 +1,33 @@
+.comp-box {
+    background-color: white;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 20px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    box-shadow: 0 0px 8px 0 rgba(0, 0, 0, 0.096);
+    border-radius: 5px;
+    width: 400px;
+    color: rgba(0, 0, 0, 0.89);
+    margin: auto;
+}
+.comp-box:hover {
+    color: #444CE2;
+}
+
+.background-setter {
+    background-color: black;
+}
+
+.desc-box {
+    margin-left: 20%;
+    margin-top: 100px;
+    margin-bottom: 80px;
+}
+
+.purpleC {
+    color: #444CE2;
+}
+
+.centerizer {
+    margin-left: 2%;
+}

@@ -1,0 +1,10 @@
+.parent {
+  overflow: hidden;
+  width: 100%;
+}
+
+.contentS {
+  
+  margin-left: 250px;
+  margin-right: 1rem;
+}

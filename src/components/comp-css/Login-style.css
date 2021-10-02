@@ -1,0 +1,31 @@
+.login-box {
+    background-color: white;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 20px;
+    box-shadow: 0 0px 8px 0 rgba(0, 0, 0, 0.096);
+    border-radius: 20px;
+    width: 350px;
+    margin: auto;
+}
+
+.middle {
+    height: 100vh;
+    display: grid;
+    place-items: center;
+    margin: auto;
+    
+    
+}
+
+.elem-center {
+    margin: auto;
+}
+
+.label-style {
+    
+    margin-bottom: 0rem;
+}
+
+.login-button:hover {
+    background-color: #444CE2 !important;
+}

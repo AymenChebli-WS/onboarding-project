@@ -1,0 +1,14 @@
+
+.colorize {
+  background-color: white;
+}
+
+.purpleBC {
+  color: white !important;
+  background-color: #444CE2 !important;
+}
+
+.purpleBC:hover {
+  color: white !important;
+  background-color: black !important;
+}
